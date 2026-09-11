@@ -45,7 +45,7 @@ body{
   color:var(--ink);
   font-size:.91rem;
   font-weight:500;
-  padding:.9rem .82rem;
+  padding:1rem .82rem;
   border-radius:10px;
   display:flex;
   align-items:center;
